@@ -1,3 +1,7 @@
+window.addEventListener("load", (event) => {
+    new cursoreffects.rainbowCursor();
+});
+
 let esquimageF = [
     './esqueleto/pixil-frame-1.png',
     './esqueleto/pixil-frame-2.png',
